@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgba(0, 13, 128, 0.777);
+}
+
+footer{
+    background-color: rgba(0, 13, 128, 0.777);
+
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+.btn:hover{
+    background-color: yellow;
+     color: black; 
+     cursor:move;
+}
